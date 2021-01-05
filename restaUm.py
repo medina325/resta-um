@@ -1,6 +1,4 @@
-# Alunos: Gabriel Medina Braga - 2016.1905.023-4
-#		  Diego Garcia Segovia - 2016.1905.018-8 
-# 		  Vitor Santa Barbara Lira - 2016.1905.035-4 
+# Alunos: Gabriel Medina Braga - 2016.1905.023-4 
 
 import time
 import math
